@@ -1,0 +1,4 @@
+streamlit==1.36.0
+Pillow==10.4.0
+fpdf==1.7.2
+streamlit_pdf_viewer==0.0.16
